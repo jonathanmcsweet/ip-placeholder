@@ -1,5 +1,4 @@
-# ip-placeholder
-Intellectual Property Placeholder
+#Intellectual Property Placeholder
 
 This document is to show that certain intellectual property ideas, concepts, techniques, inventions, designs (ornamental or otherwise), computer programs, and related documentation, works of authorship, mask works, and the like have been initiated by me prior to the creation date of this document.
 
